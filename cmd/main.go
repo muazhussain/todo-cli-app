@@ -1,9 +1,9 @@
 package main
 
 import (
-	"todo/internal/command"
-	"todo/internal/storage"
-	"todo/pkg/todo"
+	"todo-cli-app/internal/command"
+	"todo-cli-app/internal/storage"
+	"todo-cli-app/pkg/todo"
 )
 
 func main() {

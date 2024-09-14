@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"todo/pkg/todo"
+	"todo-cli-app/pkg/todo"
 )
 
 type CommandFlags struct {
